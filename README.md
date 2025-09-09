@@ -13,5 +13,6 @@ Left: Local Illumination, Right: Global Illumination
 Json file example (Located under Raytracer/assets)
 
 <img width="430" height="1288" alt="image" src="https://github.com/user-attachments/assets/1253dc6e-d78d-48c2-ab86-82815c8efa24" />
+
 (test_scene3CG.json)
 
