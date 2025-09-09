@@ -5,4 +5,7 @@
 <img width="500" height="500" alt="Example 3CG (Global Illumination)" src="https://github.com/user-attachments/assets/bad45717-7ff5-423c-8ef8-36b5bf3f8f5f" />
 
 
+
 Left: Local Illumination, Right: Global Illumination
+
+
