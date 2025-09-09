@@ -8,7 +8,7 @@
 
 Left: Local Illumination, Right: Global Illumination
 
-Note how in the global illumination version of the same test scene, the light allows the color red to bleed into the white color of the ball, aswell as how the illumination affects the shadow below the ball
+Note how in the global illumination version of the same test scene, the light allows the color red to bleed into the white color of the ball, aswell as how the illumination affects the shadow below the ball, causing it to appear softer than the local illumination version.
 
 
 
